@@ -1,0 +1,2054 @@
+Archive member included to satisfy reference by file (symbol)
+
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+                              ./CMSIS/EFR32MG22/startup_efr32mg22.o (__aeabi_unwind_cpp_pr0)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(libunwind.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o) (restore_core_regs)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o) (__gnu_unwind_execute)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o) (abort)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o (exit)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o (__libc_init_array)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o) (memcpy)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o (memset)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o) (raise)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o) (_kill_r)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o) (_malloc_r)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o) (errno)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o) (__malloc_lock)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o) (_free_r)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o) (_getpid)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o) (_kill)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o) (_sbrk)
+/Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+                              /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .data          0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+ .data          0x0000000000000000        0x0 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .bss           0x0000000000000000        0x0 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .ARM.extab     0x0000000000000000        0x0 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .text          0x0000000000000000        0x0 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .data          0x0000000000000000        0x0 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .bss           0x0000000000000000        0x0 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .text.SystemHFRCODPLLClockSet
+                0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .text.SystemMaxCoreClockGet
+                0x0000000000000000        0x8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .text.SystemHFXOClockSet
+                0x0000000000000000       0x20 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .text.SystemLFXOClockSet
+                0x0000000000000000        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_cmu.o
+ .text          0x0000000000000000        0x0 ./emlib/em_cmu.o
+ .data          0x0000000000000000        0x0 ./emlib/em_cmu.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_cmu.o
+ .text.flashWaitStateControl
+                0x0000000000000000       0x54 ./emlib/em_cmu.o
+ .text.HFRCODPLLDevinfoGet
+                0x0000000000000000       0xf4 ./emlib/em_cmu.o
+ .text.waitStateMax
+                0x0000000000000000       0x54 ./emlib/em_cmu.o
+ .text.CMU_Calibrate
+                0x0000000000000000       0x7c ./emlib/em_cmu.o
+ .text.CMU_CalibrateConfig
+                0x0000000000000000       0xbc ./emlib/em_cmu.o
+ .text.CMU_CalibrateCountGet
+                0x0000000000000000       0x20 ./emlib/em_cmu.o
+ .text.CMU_ClkOutPinConfig
+                0x0000000000000000       0xd8 ./emlib/em_cmu.o
+ .text.CMU_ClockDivGet
+                0x0000000000000000       0x5c ./emlib/em_cmu.o
+ .text.CMU_ClockSelectGet
+                0x0000000000000000      0x22c ./emlib/em_cmu.o
+ .text.CMU_LF_ClockPrecisionGet
+                0x0000000000000000       0x44 ./emlib/em_cmu.o
+ .text.CMU_HFRCODPLLBandGet
+                0x0000000000000000        0x4 ./emlib/em_cmu.o
+ .text.CMU_HFXOInit
+                0x0000000000000000      0x14c ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneDeltaSet
+                0x0000000000000000        0xc ./emlib/em_cmu.o
+ .text.CMU_HFXOCTuneDeltaGet
+                0x0000000000000000        0xc ./emlib/em_cmu.o
+ .text.CMU_LFXOInit
+                0x0000000000000000       0x98 ./emlib/em_cmu.o
+ .text.CMU_LFXOPrecisionSet
+                0x0000000000000000        0xc ./emlib/em_cmu.o
+ .text.CMU_LFRCOSetPrecision
+                0x0000000000000000       0x84 ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningGet
+                0x0000000000000000       0x3c ./emlib/em_cmu.o
+ .text.CMU_OscillatorTuningSet
+                0x0000000000000000       0x84 ./emlib/em_cmu.o
+ .text.CMU_UpdateWaitStates
+                0x0000000000000000       0x60 ./emlib/em_cmu.o
+ .text.CMU_ClockDivSet
+                0x0000000000000000       0xf8 ./emlib/em_cmu.o
+ .text.CMU_ClockSelectSet
+                0x0000000000000000      0x424 ./emlib/em_cmu.o
+ .text.CMU_HFRCODPLLBandSet
+                0x0000000000000000      0x160 ./emlib/em_cmu.o
+ .text.CMU_DPLLLock
+                0x0000000000000000      0x234 ./emlib/em_cmu.o
+ .text.CMU_PCNTClockExternalSet
+                0x0000000000000000        0x4 ./emlib/em_cmu.o
+ .bss.ctuneDelta
+                0x0000000000000000        0x1 ./emlib/em_cmu.o
+ .data.lfxo_precision
+                0x0000000000000000        0x2 ./emlib/em_cmu.o
+ .rodata.CSWTCH.44
+                0x0000000000000000       0x40 ./emlib/em_cmu.o
+ .rodata.CSWTCH.67
+                0x0000000000000000       0x10 ./emlib/em_cmu.o
+ .rodata.CSWTCH.68
+                0x0000000000000000       0x10 ./emlib/em_cmu.o
+ .rodata.CSWTCH.70
+                0x0000000000000000       0x18 ./emlib/em_cmu.o
+ .rodata.CSWTCH.71
+                0x0000000000000000       0x1c ./emlib/em_cmu.o
+ .rodata.CSWTCH.72
+                0x0000000000000000       0x18 ./emlib/em_cmu.o
+ .rodata.hfrcoCalTable
+                0x0000000000000000      0x190 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x56 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_cmu.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_cmu.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_core.o
+ .text          0x0000000000000000        0x0 ./emlib/em_core.o
+ .data          0x0000000000000000        0x0 ./emlib/em_core.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_core.o
+ .text.CORE_CriticalDisableIrq
+                0x0000000000000000        0x4 ./emlib/em_core.o
+ .text.CORE_CriticalEnableIrq
+                0x0000000000000000        0x4 ./emlib/em_core.o
+ .text.CORE_YieldCritical
+                0x0000000000000000       0x14 ./emlib/em_core.o
+ .text.CORE_AtomicDisableIrq
+                0x0000000000000000        0x4 ./emlib/em_core.o
+ .text.CORE_AtomicEnableIrq
+                0x0000000000000000        0x4 ./emlib/em_core.o
+ .text.CORE_EnterAtomic
+                0x0000000000000000        0x8 ./emlib/em_core.o
+ .text.CORE_ExitAtomic
+                0x0000000000000000        0x8 ./emlib/em_core.o
+ .text.CORE_YieldAtomic
+                0x0000000000000000       0x14 ./emlib/em_core.o
+ .text.CORE_EnterNvicMask
+                0x0000000000000000       0x2c ./emlib/em_core.o
+ .text.CORE_NvicDisableMask
+                0x0000000000000000       0x20 ./emlib/em_core.o
+ .text.CORE_NvicEnableMask
+                0x0000000000000000       0x20 ./emlib/em_core.o
+ .text.CORE_YieldNvicMask
+                0x0000000000000000       0x34 ./emlib/em_core.o
+ .text.CORE_NvicMaskSetIRQ
+                0x0000000000000000       0x18 ./emlib/em_core.o
+ .text.CORE_NvicMaskClearIRQ
+                0x0000000000000000       0x1c ./emlib/em_core.o
+ .text.CORE_InIrqContext
+                0x0000000000000000       0x14 ./emlib/em_core.o
+ .text.CORE_IrqIsBlocked
+                0x0000000000000000       0x98 ./emlib/em_core.o
+ .text.CORE_IrqIsDisabled
+                0x0000000000000000        0xc ./emlib/em_core.o
+ .text.CORE_GetNvicEnabledMask
+                0x0000000000000000       0x20 ./emlib/em_core.o
+ .text.CORE_GetNvicMaskDisableState
+                0x0000000000000000       0x2c ./emlib/em_core.o
+ .text.CORE_NvicIRQDisabled
+                0x0000000000000000       0x1c ./emlib/em_core.o
+ .text.CORE_GetNvicRamTableHandler
+                0x0000000000000000       0x10 ./emlib/em_core.o
+ .text.CORE_SetNvicRamTableHandler
+                0x0000000000000000       0x10 ./emlib/em_core.o
+ .text.CORE_InitNvicVectorTable
+                0x0000000000000000       0x50 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x56 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0x8d ./emlib/em_core.o
+ .debug_macro   0x0000000000000000       0xfc ./emlib/em_core.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_emu.o
+ .text          0x0000000000000000        0x0 ./emlib/em_emu.o
+ .data          0x0000000000000000        0x0 ./emlib/em_emu.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_emu.o
+ .ram           0x0000000000000000       0x30 ./emlib/em_emu.o
+ .text.dpllState.part.0
+                0x0000000000000000       0x80 ./emlib/em_emu.o
+ .text.EMU_EM23Init
+                0x0000000000000000       0x18 ./emlib/em_emu.o
+ .text.EMU_EM23PresleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EFPEM23PresleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EM23PostsleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EFPEM23PostsleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EnterEM2
+                0x0000000000000000       0x94 ./emlib/em_emu.o
+ .text.EMU_EnterEM3
+                0x0000000000000000       0x84 ./emlib/em_emu.o
+ .text.EMU_Save
+                0x0000000000000000       0x34 ./emlib/em_emu.o
+ .text.EMU_Restore
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EM4Init
+                0x0000000000000000       0x14 ./emlib/em_emu.o
+ .text.EMU_EM4PresleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EFPEM4PresleepHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_MemPwrDown
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_RamPowerDown
+                0x0000000000000000       0x48 ./emlib/em_emu.o
+ .text.EMU_RamPowerUp
+                0x0000000000000000       0x1c ./emlib/em_emu.o
+ .text.EMU_UpdateOscConfig
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EFPEM01VScale
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_VScaleEM01
+                0x0000000000000000       0xb0 ./emlib/em_emu.o
+ .text.EMU_VScaleEM01ByClock
+                0x0000000000000000       0x38 ./emlib/em_emu.o
+ .text.EMU_EM01Init
+                0x0000000000000000       0x34 ./emlib/em_emu.o
+ .text.EMU_DCDCUpdatedHook
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_DCDCModeSet
+                0x0000000000000000       0x74 ./emlib/em_emu.o
+ .text.EMU_EnterEM4
+                0x0000000000000000       0x48 ./emlib/em_emu.o
+ .text.EMU_EnterEM4H
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_EnterEM4S
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .text.EMU_DCDCInit
+                0x0000000000000000       0x80 ./emlib/em_emu.o
+ .text.EMU_DCDCPowerOff
+                0x0000000000000000       0x58 ./emlib/em_emu.o
+ .text.EMU_EM01PeakCurrentSet
+                0x0000000000000000       0x80 ./emlib/em_emu.o
+ .text.EMU_TemperatureGet
+                0x0000000000000000       0x28 ./emlib/em_emu.o
+ .text.EMU_EFPDirectModeEnable
+                0x0000000000000000       0x1c ./emlib/em_emu.o
+ .text.EMU_EFPDriveDecoupleSet
+                0x0000000000000000       0x1c ./emlib/em_emu.o
+ .text.EMU_EFPDriveDvddSet
+                0x0000000000000000       0x1c ./emlib/em_emu.o
+ .bss.dpllRefClk.0
+                0x0000000000000000        0x4 ./emlib/em_emu.o
+ .bss.vScaleEM01Config
+                0x0000000000000000        0x1 ./emlib/em_emu.o
+ .debug_info    0x0000000000000000     0x3b47 ./emlib/em_emu.o
+ .debug_abbrev  0x0000000000000000      0x4fb ./emlib/em_emu.o
+ .debug_loc     0x0000000000000000      0xa1b ./emlib/em_emu.o
+ .debug_aranges
+                0x0000000000000000       0xf0 ./emlib/em_emu.o
+ .debug_ranges  0x0000000000000000      0x350 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x359 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x5c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x16d ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x356 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x7c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x17 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0xee ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x8d ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0xfc ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x39 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x307 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0xd6 ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000      0x11b ./emlib/em_emu.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_emu.o
+ .debug_line    0x0000000000000000     0x15d7 ./emlib/em_emu.o
+ .debug_str     0x0000000000000000    0xcd1b0 ./emlib/em_emu.o
+ .comment       0x0000000000000000       0x4e ./emlib/em_emu.o
+ .debug_frame   0x0000000000000000      0x32c ./emlib/em_emu.o
+ .ARM.attributes
+                0x0000000000000000       0x38 ./emlib/em_emu.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_gpio.o
+ .text          0x0000000000000000        0x0 ./emlib/em_gpio.o
+ .data          0x0000000000000000        0x0 ./emlib/em_gpio.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_gpio.o
+ .text.GPIO_DbgLocationSet
+                0x0000000000000000        0x4 ./emlib/em_gpio.o
+ .text.GPIO_ExtIntConfig
+                0x0000000000000000       0xfc ./emlib/em_gpio.o
+ .text.GPIO_PinModeGet
+                0x0000000000000000       0x24 ./emlib/em_gpio.o
+ .text.GPIO_EM4EnablePinWakeup
+                0x0000000000000000       0x58 ./emlib/em_gpio.o
+ .text.GPIO_EM4WUExtIntConfig
+                0x0000000000000000       0x3c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x56 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x8d ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0xfc ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_gpio.o
+ .debug_macro   0x0000000000000000       0xd6 ./emlib/em_gpio.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_system.o
+ .text          0x0000000000000000        0x0 ./emlib/em_system.o
+ .data          0x0000000000000000        0x0 ./emlib/em_system.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_system.o
+ .text.SYSTEM_ChipRevisionGet
+                0x0000000000000000       0x28 ./emlib/em_system.o
+ .text.SYSTEM_GetCalibrationValue
+                0x0000000000000000       0x44 ./emlib/em_system.o
+ .text.SYSTEM_GetSecurityCapability
+                0x0000000000000000        0xc ./emlib/em_system.o
+ .debug_info    0x0000000000000000     0x19dd ./emlib/em_system.o
+ .debug_abbrev  0x0000000000000000      0x1fa ./emlib/em_system.o
+ .debug_loc     0x0000000000000000      0x124 ./emlib/em_system.o
+ .debug_aranges
+                0x0000000000000000       0x30 ./emlib/em_system.o
+ .debug_ranges  0x0000000000000000       0x50 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x28a ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x56 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_system.o
+ .debug_macro   0x0000000000000000      0x16d ./emlib/em_system.o
+ .debug_line    0x0000000000000000      0x939 ./emlib/em_system.o
+ .debug_str     0x0000000000000000    0xc6fa1 ./emlib/em_system.o
+ .comment       0x0000000000000000       0x4e ./emlib/em_system.o
+ .debug_frame   0x0000000000000000       0x58 ./emlib/em_system.o
+ .ARM.attributes
+                0x0000000000000000       0x38 ./emlib/em_system.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./emlib/em_timer.o
+ .text          0x0000000000000000        0x0 ./emlib/em_timer.o
+ .data          0x0000000000000000        0x0 ./emlib/em_timer.o
+ .bss           0x0000000000000000        0x0 ./emlib/em_timer.o
+ .text.TIMER_Reset
+                0x0000000000000000       0x90 ./emlib/em_timer.o
+ .text.TIMER_SyncWait
+                0x0000000000000000       0x10 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0xa72 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x773 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x56 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x51 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x103 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x6a ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x1df ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x1c ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x29 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x110 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x17ea ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x5e ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x16 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0xe4f ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x12bd ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x87c ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x300 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x304 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x456 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x4a1 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x156 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x764 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x363 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x14f4 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x997 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x2b9a ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0xcb2 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x4c ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x15b8 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x210a ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x53c ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0xfe5 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x955 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x34 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x308 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x6a7 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x618 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x91e ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x1b1b ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x76b ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x8f3 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x14b5 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x688 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x464 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x141b ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x15c0 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x1384 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000     0x155c ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0x2d0 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000      0xf00 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x22 ./emlib/em_timer.o
+ .debug_macro   0x0000000000000000       0x10 ./emlib/em_timer.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .group         0x0000000000000000        0xc ./src/main.o
+ .text          0x0000000000000000        0x0 ./src/main.o
+ .data          0x0000000000000000        0x0 ./src/main.o
+ .bss           0x0000000000000000        0x0 ./src/main.o
+ .debug_macro   0x0000000000000000      0xa72 ./src/main.o
+ .debug_macro   0x0000000000000000      0x773 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0x56 ./src/main.o
+ .debug_macro   0x0000000000000000       0x51 ./src/main.o
+ .debug_macro   0x0000000000000000      0x103 ./src/main.o
+ .debug_macro   0x0000000000000000       0x6a ./src/main.o
+ .debug_macro   0x0000000000000000      0x1df ./src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./src/main.o
+ .debug_macro   0x0000000000000000       0x29 ./src/main.o
+ .debug_macro   0x0000000000000000      0x110 ./src/main.o
+ .debug_macro   0x0000000000000000     0x17ea ./src/main.o
+ .debug_macro   0x0000000000000000       0x5e ./src/main.o
+ .debug_macro   0x0000000000000000       0x16 ./src/main.o
+ .debug_macro   0x0000000000000000      0xe4f ./src/main.o
+ .debug_macro   0x0000000000000000     0x12bd ./src/main.o
+ .debug_macro   0x0000000000000000      0x87c ./src/main.o
+ .debug_macro   0x0000000000000000      0x300 ./src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./src/main.o
+ .debug_macro   0x0000000000000000      0x304 ./src/main.o
+ .debug_macro   0x0000000000000000      0x456 ./src/main.o
+ .debug_macro   0x0000000000000000      0x4a1 ./src/main.o
+ .debug_macro   0x0000000000000000      0x156 ./src/main.o
+ .debug_macro   0x0000000000000000      0x764 ./src/main.o
+ .debug_macro   0x0000000000000000      0x363 ./src/main.o
+ .debug_macro   0x0000000000000000     0x14f4 ./src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./src/main.o
+ .debug_macro   0x0000000000000000      0x997 ./src/main.o
+ .debug_macro   0x0000000000000000     0x2b9a ./src/main.o
+ .debug_macro   0x0000000000000000      0xcb2 ./src/main.o
+ .debug_macro   0x0000000000000000       0x4c ./src/main.o
+ .debug_macro   0x0000000000000000     0x15b8 ./src/main.o
+ .debug_macro   0x0000000000000000     0x210a ./src/main.o
+ .debug_macro   0x0000000000000000      0x53c ./src/main.o
+ .debug_macro   0x0000000000000000      0xfe5 ./src/main.o
+ .debug_macro   0x0000000000000000      0x955 ./src/main.o
+ .debug_macro   0x0000000000000000       0x34 ./src/main.o
+ .debug_macro   0x0000000000000000      0x308 ./src/main.o
+ .debug_macro   0x0000000000000000      0x6a7 ./src/main.o
+ .debug_macro   0x0000000000000000      0x618 ./src/main.o
+ .debug_macro   0x0000000000000000      0x91e ./src/main.o
+ .debug_macro   0x0000000000000000     0x1b1b ./src/main.o
+ .debug_macro   0x0000000000000000      0x76b ./src/main.o
+ .debug_macro   0x0000000000000000      0x8f3 ./src/main.o
+ .debug_macro   0x0000000000000000     0x14b5 ./src/main.o
+ .debug_macro   0x0000000000000000      0x688 ./src/main.o
+ .debug_macro   0x0000000000000000      0x464 ./src/main.o
+ .debug_macro   0x0000000000000000     0x141b ./src/main.o
+ .debug_macro   0x0000000000000000     0x15c0 ./src/main.o
+ .debug_macro   0x0000000000000000     0x1384 ./src/main.o
+ .debug_macro   0x0000000000000000     0x155c ./src/main.o
+ .debug_macro   0x0000000000000000      0x2d0 ./src/main.o
+ .debug_macro   0x0000000000000000      0xf00 ./src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./src/main.o
+ .debug_macro   0x0000000000000000       0x8d ./src/main.o
+ .debug_macro   0x0000000000000000       0xfc ./src/main.o
+ .debug_macro   0x0000000000000000      0x307 ./src/main.o
+ .debug_macro   0x0000000000000000       0x16 ./src/main.o
+ .debug_macro   0x0000000000000000       0xd6 ./src/main.o
+ .debug_macro   0x0000000000000000      0x11b ./src/main.o
+ .debug_macro   0x0000000000000000       0x3f ./src/main.o
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+ .ARM.extab     0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(libunwind.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(libunwind.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .text.unlikely
+                0x0000000000000000        0xc /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .ARM.extab.text.unlikely
+                0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .ARM.exidx.text.unlikely
+                0x0000000000000000       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text._init_signal_r
+                0x0000000000000000       0x28 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text._signal_r
+                0x0000000000000000       0x30 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp_r
+                0x0000000000000000       0x48 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text.signal   0x0000000000000000       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text._init_signal
+                0x0000000000000000        0xc /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text.__sigtramp
+                0x0000000000000000       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text._malloc_r
+                0x0000000000000000       0xb4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_free_list
+                0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .bss.__malloc_sbrk_start
+                0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000000000       0x30 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-mallocr.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x1a /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0xb8 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .text._sbrk_r  0x0000000000000000       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000000000       0x2c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_lock
+                0x0000000000000000        0xc /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .text.__malloc_unlock
+                0x0000000000000000        0xc /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000000000       0x30 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .text._free_r  0x0000000000000000       0x98 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000000000       0x38 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-nano-freer.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire_recursive
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text.__retarget_lock_release_recursive
+                0x0000000000000000        0x2 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___malloc_recursive_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .debug_frame   0x0000000000000000       0xb0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-lock.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .text._sbrk    0x0000000000000000       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .bss.heap_end.0
+                0x0000000000000000        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .debug_frame   0x0000000000000000       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x0000000000000000       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .rodata        0x0000000000000000       0x24 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .text          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ .data          0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ .bss           0x0000000000000000        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000000000000 0x0000000000080000 xr
+RAM              0x0000000020000000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+LOAD ./CMSIS/EFR32MG22/startup_efr32mg22.o
+LOAD ./CMSIS/EFR32MG22/system_efr32mg22.o
+LOAD ./emlib/em_cmu.o
+LOAD ./emlib/em_core.o
+LOAD ./emlib/em_emu.o
+LOAD ./emlib/em_gpio.o
+LOAD ./emlib/em_system.o
+LOAD ./emlib/em_timer.o
+LOAD ./src/main.o
+START GROUP
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a
+END GROUP
+START GROUP
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libg_nano.a
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a
+END GROUP
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+LOAD /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+.text           0x0000000000000000     0x2638
+ *(.vectors)
+ .vectors       0x0000000000000000      0x7c0 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+                0x0000000000000000                __Vectors
+                0x00000000000007c0                __Vectors_End = .
+                0x00000000000007c0                __Vectors_Size = (__Vectors_End - __Vectors)
+                0x00000000200000a8                __end__ = .
+ *(.text*)
+ .text          0x00000000000007c0       0x40 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .text          0x0000000000000800       0x7c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+                0x0000000000000800                _stack_init
+                0x0000000000000808                _mainCRTStartup
+                0x0000000000000808                _start
+ .text          0x000000000000087c       0x58 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+                0x000000000000087c                Reset_Handler
+                0x00000000000008be                HardFault_Handler
+                0x00000000000008c0                TIMER2_IRQHandler
+                0x00000000000008c0                DebugMon_Handler
+                0x00000000000008c0                USART0_TX_IRQHandler
+                0x00000000000008c0                PKE_IRQHandler
+                0x00000000000008c0                PRORTC_IRQHandler
+                0x00000000000008c0                IADC_IRQHandler
+                0x00000000000008c0                I2C0_IRQHandler
+                0x00000000000008c0                LFXO_IRQHandler
+                0x00000000000008c0                CRYPTOACC_IRQHandler
+                0x00000000000008c0                SMU_SECURE_IRQHandler
+                0x00000000000008c0                SysTick_Handler
+                0x00000000000008c0                USART1_RX_IRQHandler
+                0x00000000000008c0                EMUEFP_IRQHandler
+                0x00000000000008c0                PendSV_Handler
+                0x00000000000008c0                NMI_Handler
+                0x00000000000008c0                SYNTH_IRQHandler
+                0x00000000000008c0                HFXO0_IRQHandler
+                0x00000000000008c0                I2C1_IRQHandler
+                0x00000000000008c0                PDM_IRQHandler
+                0x00000000000008c0                WDOG0_IRQHandler
+                0x00000000000008c0                TIMER3_IRQHandler
+                0x00000000000008c0                SYSCFG_IRQHandler
+                0x00000000000008c0                EMUSE_IRQHandler
+                0x00000000000008c0                EMUDG_IRQHandler
+                0x00000000000008c0                USART1_TX_IRQHandler
+                0x00000000000008c0                MSC_IRQHandler
+                0x00000000000008c0                DPLL0_IRQHandler
+                0x00000000000008c0                UsageFault_Handler
+                0x00000000000008c0                M33CTI1_IRQHandler
+                0x00000000000008c0                TIMER4_IRQHandler
+                0x00000000000008c0                GPIO_EVEN_IRQHandler
+                0x00000000000008c0                LDMA_IRQHandler
+                0x00000000000008c0                SW0_IRQHandler
+                0x00000000000008c0                LETIMER0_IRQHandler
+                0x00000000000008c0                TIMER1_IRQHandler
+                0x00000000000008c0                HFRCO0_IRQHandler
+                0x00000000000008c0                RFSENSE_IRQHandler
+                0x00000000000008c0                SecureFault_Handler
+                0x00000000000008c0                BUFC_IRQHandler
+                0x00000000000008c0                DCDC_IRQHandler
+                0x00000000000008c0                MODEM_IRQHandler
+                0x00000000000008c0                Default_Handler
+                0x00000000000008c0                RAC_SEQ_IRQHandler
+                0x00000000000008c0                FRC_PRI_IRQHandler
+                0x00000000000008c0                SW3_IRQHandler
+                0x00000000000008c0                EMU_IRQHandler
+                0x00000000000008c0                KERNEL0_IRQHandler
+                0x00000000000008c0                FRC_IRQHandler
+                0x00000000000008c0                KERNEL1_IRQHandler
+                0x00000000000008c0                AGC_IRQHandler
+                0x00000000000008c0                sl_app_properties
+                0x00000000000008c0                BURTC_IRQHandler
+                0x00000000000008c0                LFRCO_IRQHandler
+                0x00000000000008c0                USART0_RX_IRQHandler
+                0x00000000000008c0                MemManage_Handler
+                0x00000000000008c0                RDMAILBOX_IRQHandler
+                0x00000000000008c0                SVC_Handler
+                0x00000000000008c0                RTCC_IRQHandler
+                0x00000000000008c0                SMU_S_PRIVILEGED_IRQHandler
+                0x00000000000008c0                SW1_IRQHandler
+                0x00000000000008c0                CMU_IRQHandler
+                0x00000000000008c0                RAC_RSM_IRQHandler
+                0x00000000000008c0                EUART0_TX_IRQHandler
+                0x00000000000008c0                EUART0_RX_IRQHandler
+                0x00000000000008c0                GPIO_ODD_IRQHandler
+                0x00000000000008c0                AES_IRQHandler
+                0x00000000000008c0                M33CTI0_IRQHandler
+                0x00000000000008c0                ICACHE0_IRQHandler
+                0x00000000000008c0                SMU_NS_PRIVILEGED_IRQHandler
+                0x00000000000008c0                PROTIMER_IRQHandler
+                0x00000000000008c0                BusFault_Handler
+                0x00000000000008c0                ULFRCO_IRQHandler
+                0x00000000000008c0                TRNG_IRQHandler
+                0x00000000000008c0                SW2_IRQHandler
+ .text.SystemInit
+                0x00000000000008d4       0x68 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000008d4                SystemInit
+ .text.SystemHFRCODPLLClockGet
+                0x000000000000093c        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x000000000000093c                SystemHFRCODPLLClockGet
+ .text.SystemSYSCLKGet
+                0x0000000000000948       0x38 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x0000000000000948                SystemSYSCLKGet
+ .text.SystemHCLKGet
+                0x0000000000000980       0x4c ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x0000000000000980                SystemHCLKGet
+ .text.SystemHFXOClockGet
+                0x00000000000009cc        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009cc                SystemHFXOClockGet
+ .text.SystemCLKIN0Get
+                0x00000000000009d8        0x4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009d8                SystemCLKIN0Get
+ .text.SystemFSRCOClockGet
+                0x00000000000009dc        0x8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009dc                SystemFSRCOClockGet
+ .text.SystemLFRCOClockGet
+                0x00000000000009e4        0x8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009e4                SystemLFRCOClockGet
+ .text.SystemULFRCOClockGet
+                0x00000000000009ec        0x8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009ec                SystemULFRCOClockGet
+ .text.SystemLFXOClockGet
+                0x00000000000009f4        0xc ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x00000000000009f4                SystemLFXOClockGet
+ .text.em01GrpbClkGet
+                0x0000000000000a00       0x64 ./emlib/em_cmu.o
+ .text.wdog0ClkGet
+                0x0000000000000a64       0x54 ./emlib/em_cmu.o
+ .text.CMU_ClockEnable
+                0x0000000000000ab8       0x44 ./emlib/em_cmu.o
+                0x0000000000000ab8                CMU_ClockEnable
+ .text.CMU_ClockFreqGet
+                0x0000000000000afc      0x3a8 ./emlib/em_cmu.o
+                0x0000000000000afc                CMU_ClockFreqGet
+ .text.CORE_EnterCritical
+                0x0000000000000ea4        0x8 ./emlib/em_core.o
+                0x0000000000000ea4                CORE_EnterCritical
+ .text.CORE_ExitCritical
+                0x0000000000000eac        0x8 ./emlib/em_core.o
+                0x0000000000000eac                CORE_ExitCritical
+ .text.GPIO_PinModeSet
+                0x0000000000000eb4       0xc8 ./emlib/em_gpio.o
+                0x0000000000000eb4                GPIO_PinModeSet
+ .text.TIMER_Init
+                0x0000000000000f7c       0xa4 ./emlib/em_timer.o
+                0x0000000000000f7c                TIMER_Init
+ .text.TIMER_InitCC
+                0x0000000000001020       0xf4 ./emlib/em_timer.o
+                0x0000000000001020                TIMER_InitCC
+ .text.TIMER_InitDTI
+                0x0000000000001114      0x268 ./emlib/em_timer.o
+                0x0000000000001114                TIMER_InitDTI
+ .text.TIMER0_IRQHandler
+                0x000000000000137c       0x38 ./src/main.o
+                0x000000000000137c                TIMER0_IRQHandler
+ .text.initGpio
+                0x00000000000013b4       0x20 ./src/main.o
+                0x00000000000013b4                initGpio
+ .text.initCmu  0x00000000000013d4       0x18 ./src/main.o
+                0x00000000000013d4                initCmu
+ .text.initTimer
+                0x00000000000013ec       0xf8 ./src/main.o
+                0x00000000000013ec                initTimer
+ .text.startup.main
+                0x00000000000014e4       0x5c ./src/main.o
+                0x00000000000014e4                main
+ .text          0x0000000000001540      0xa44 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+                0x0000000000001800                _Unwind_GetCFA
+                0x0000000000001804                __gnu_Unwind_RaiseException
+                0x000000000000186c                __gnu_Unwind_ForcedUnwind
+                0x0000000000001880                __gnu_Unwind_Resume
+                0x00000000000018c4                __gnu_Unwind_Resume_or_Rethrow
+                0x00000000000018d8                _Unwind_Complete
+                0x00000000000018dc                _Unwind_DeleteException
+                0x00000000000018e8                _Unwind_VRS_Get
+                0x0000000000001934                _Unwind_VRS_Set
+                0x0000000000001980                __gnu_Unwind_Backtrace
+                0x0000000000001cc4                __aeabi_unwind_cpp_pr0
+                0x0000000000001cc8                __aeabi_unwind_cpp_pr1
+                0x0000000000001ccc                __aeabi_unwind_cpp_pr2
+                0x0000000000001cd0                _Unwind_VRS_Pop
+ .text          0x0000000000001f84      0x1ac /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(libunwind.o)
+                0x0000000000001f84                __restore_core_regs
+                0x0000000000001f84                restore_core_regs
+                0x0000000000001f9c                __gnu_Unwind_Restore_VFP
+                0x0000000000001fa4                __gnu_Unwind_Save_VFP
+                0x0000000000001fac                __gnu_Unwind_Restore_VFP_D
+                0x0000000000001fb4                __gnu_Unwind_Save_VFP_D
+                0x0000000000001fbc                __gnu_Unwind_Restore_VFP_D_16_to_31
+                0x0000000000001fc4                __gnu_Unwind_Save_VFP_D_16_to_31
+                0x0000000000001fcc                __gnu_Unwind_Restore_WMMXD
+                0x0000000000002010                __gnu_Unwind_Save_WMMXD
+                0x0000000000002054                __gnu_Unwind_Restore_WMMXC
+                0x0000000000002068                __gnu_Unwind_Save_WMMXC
+                0x000000000000207c                _Unwind_RaiseException
+                0x000000000000207c                ___Unwind_RaiseException
+                0x00000000000020a0                ___Unwind_Resume
+                0x00000000000020a0                _Unwind_Resume
+                0x00000000000020c4                ___Unwind_Resume_or_Rethrow
+                0x00000000000020c4                _Unwind_Resume_or_Rethrow
+                0x00000000000020e8                _Unwind_ForcedUnwind
+                0x00000000000020e8                ___Unwind_ForcedUnwind
+                0x000000000000210c                _Unwind_Backtrace
+                0x000000000000210c                ___Unwind_Backtrace
+ .text          0x0000000000002130      0x374 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+                0x0000000000002188                __gnu_unwind_execute
+                0x0000000000002454                __gnu_unwind_frame
+                0x0000000000002484                _Unwind_GetRegionStart
+                0x0000000000002490                _Unwind_GetLanguageSpecificData
+ .text.abort    0x00000000000024a4        0xe /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+                0x00000000000024a4                abort
+ *fill*         0x00000000000024b2        0x2 
+ .text.exit     0x00000000000024b4       0x28 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+                0x00000000000024b4                exit
+ .text.__libc_init_array
+                0x00000000000024dc       0x48 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+                0x00000000000024dc                __libc_init_array
+ .text.memcpy   0x0000000000002524       0x1a /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000002524                memcpy
+ .text.memset   0x000000000000253e       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+                0x000000000000253e                memset
+ .text._raise_r
+                0x000000000000254e       0x50 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+                0x000000000000254e                _raise_r
+ *fill*         0x000000000000259e        0x2 
+ .text.raise    0x00000000000025a0       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+                0x00000000000025a0                raise
+ .text._kill_r  0x00000000000025b0       0x24 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+                0x00000000000025b0                _kill_r
+ .text._getpid_r
+                0x00000000000025d4        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+                0x00000000000025d4                _getpid_r
+ .text._getpid  0x00000000000025d8       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+                0x00000000000025d8                _getpid
+ .text._kill    0x00000000000025e8       0x10 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+                0x00000000000025e8                _kill
+ .text._exit    0x00000000000025f8        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+                0x00000000000025f8                _exit
+ *(.init)
+ .init          0x00000000000025fc        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+                0x00000000000025fc                _init
+ .init          0x0000000000002600        0x8 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ *(.fini)
+ .fini          0x0000000000002608        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+                0x0000000000002608                _fini
+ .fini          0x000000000000260c        0x8 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o *crtend?.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+ *(.rodata*)
+ .rodata        0x0000000000002614       0x1c ./src/main.o
+ .rodata._global_impure_ptr
+                0x0000000000002630        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+                0x0000000000002630                _global_impure_ptr
+ *(.eh_frame*)
+ .eh_frame      0x0000000000002634        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .eh_frame      0x0000000000002634        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+
+.glue_7         0x0000000000002638        0x0
+ .glue_7        0x0000000000002638        0x0 linker stubs
+
+.glue_7t        0x0000000000002638        0x0
+ .glue_7t       0x0000000000002638        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000002638        0x0
+ .vfp11_veneer  0x0000000000002638        0x0 linker stubs
+
+.v4_bx          0x0000000000002638        0x0
+ .v4_bx         0x0000000000002638        0x0 linker stubs
+
+.iplt           0x0000000000002638        0x0
+ .iplt          0x0000000000002638        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.ARM.extab      0x0000000000002638       0x18
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x0000000000002638       0x18 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+                0x0000000000002650                __exidx_start = .
+
+.ARM.exidx      0x0000000000002650       0xc8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x0000000000002650        0x8 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+                                         0x10 (size before relaxing)
+ .ARM.exidx     0x0000000000002658       0x10 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+                                         0x18 (size before relaxing)
+ .ARM.exidx     0x0000000000002668       0x78 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+                                         0xd8 (size before relaxing)
+ .ARM.exidx     0x00000000000026e0       0x38 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+                0x0000000000002718                __exidx_end = .
+
+.rel.dyn        0x0000000000002718        0x0
+ .rel.iplt      0x0000000000002718        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.copy.table     0x0000000000002718        0xc
+                0x0000000000002718                . = ALIGN (0x4)
+                0x0000000000002718                __copy_table_start__ = .
+                0x0000000000002718        0x4 LONG 0x2724 __etext
+                0x000000000000271c        0x4 LONG 0x20000000 __data_start__
+                0x0000000000002720        0x4 LONG 0x1f ((__data_end__ - __data_start__) / 0x4)
+                0x0000000000002724                __copy_table_end__ = .
+
+.zero.table     0x0000000000002724        0x0
+                0x0000000000002724                . = ALIGN (0x4)
+                0x0000000000002724                __zero_table_start__ = .
+                0x0000000000002724                __zero_table_end__ = .
+                0x0000000000002724                __etext = .
+
+.data           0x0000000020000000       0x7c load address 0x0000000000002724
+                0x0000000020000000                __data_start__ = .
+ *(vtable)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                0x0000000020000000                SystemCoreClock
+ .data.SystemHFRCODPLLClock
+                0x0000000020000004        0x4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .data.SystemHFXOClock
+                0x0000000020000008        0x4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .data.SystemLFXOClock
+                0x000000002000000c        0x4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .data._impure_ptr
+                0x0000000020000010        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+                0x0000000020000010                _impure_ptr
+ .data.impure_data
+                0x0000000020000014       0x60 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+                0x0000000020000074                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__ram_func_section_start = .)
+ *(.ram)
+                [!provide]                        PROVIDE (__ram_func_section_end = .)
+                0x0000000020000074                . = ALIGN (0x4)
+                0x0000000020000074                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array)
+                0x0000000020000074                PROVIDE (__preinit_array_end = .)
+                0x0000000020000074                . = ALIGN (0x4)
+                0x0000000020000074                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000020000074        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+                0x0000000020000078                PROVIDE (__init_array_end = .)
+                0x0000000020000078                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000020000078        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+ *(.jcr*)
+                0x000000002000007c                . = ALIGN (0x4)
+                0x000000002000007c                __data_end__ = .
+
+.igot.plt       0x000000002000007c        0x0 load address 0x00000000000027a0
+ .igot.plt      0x000000002000007c        0x0 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+
+.bss            0x000000002000007c       0x28 load address 0x00000000000027a0
+                0x000000002000007c                . = ALIGN (0x4)
+                0x000000002000007c                __bss_start__ = .
+ *(.bss*)
+ .bss           0x000000002000007c       0x1c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .bss.dutyCycle
+                0x0000000020000098        0x4 ./src/main.o
+ .bss.topValue  0x000000002000009c        0x4 ./src/main.o
+ .bss.errno     0x00000000200000a0        0x4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+                0x00000000200000a0                errno
+ *(COMMON)
+                0x00000000200000a4                . = ALIGN (0x4)
+                0x00000000200000a4                __bss_end__ = .
+
+.heap           0x00000000200000a8      0xc00
+                0x00000000200000a8                __HeapBase = .
+                0x00000000200000a8                __end__ = .
+                0x00000000200000a8                end = __end__
+                0x00000000200000a8                _end = __end__
+ *(.heap*)
+ .heap          0x00000000200000a8      0xc00 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+                0x0000000020000ca8                __HeapLimit = .
+
+.stack_dummy    0x0000000020000200      0x400
+ *(.stack*)
+ .stack         0x0000000020000200      0x400 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+                0x0000000020008000                __StackTop = (ORIGIN (RAM) + LENGTH (RAM))
+                0x0000000020007c00                __StackLimit = (__StackTop - SIZEOF (.stack_dummy))
+                0x0000000020008000                PROVIDE (__stack = __StackTop)
+                0x0000000000000001                ASSERT ((__StackLimit >= __HeapLimit), region RAM overflowed with stack)
+                0x0000000000000001                ASSERT ((LENGTH (FLASH) >= (__etext + SIZEOF (.data))), FLASH memory overflowed !)
+OUTPUT(BRD4182A_EFR32MG22_timer_pwm_interrupt.axf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x34
+ .ARM.attributes
+                0x0000000000000000       0x22 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crti.o
+ .ARM.attributes
+                0x0000000000000022       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtbegin.o
+ .ARM.attributes
+                0x0000000000000058       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/crt0.o
+ .ARM.attributes
+                0x0000000000000078       0x24 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .ARM.attributes
+                0x000000000000009c       0x38 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .ARM.attributes
+                0x00000000000000d4       0x38 ./emlib/em_cmu.o
+ .ARM.attributes
+                0x000000000000010c       0x38 ./emlib/em_core.o
+ .ARM.attributes
+                0x0000000000000144       0x38 ./emlib/em_gpio.o
+ .ARM.attributes
+                0x000000000000017c       0x38 ./emlib/em_timer.o
+ .ARM.attributes
+                0x00000000000001b4       0x38 ./src/main.o
+ .ARM.attributes
+                0x00000000000001ec       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+ .ARM.attributes
+                0x0000000000000222       0x22 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(libunwind.o)
+ .ARM.attributes
+                0x0000000000000244       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .ARM.attributes
+                0x000000000000027a       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+ .ARM.attributes
+                0x00000000000002b0       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000002e6       0x34 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000000000000031a       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000350       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x0000000000000386       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000000003bc       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .ARM.attributes
+                0x00000000000003f2       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000000428       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x000000000000045e       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .ARM.attributes
+                0x0000000000000494       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+ .ARM.attributes
+                0x00000000000004ca       0x36 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000500       0x34 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtend.o
+ .ARM.attributes
+                0x0000000000000534       0x22 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/crtn.o
+
+.comment        0x0000000000000000       0x4d
+ .comment       0x0000000000000000       0x4d ./CMSIS/EFR32MG22/system_efr32mg22.o
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x4e ./emlib/em_cmu.o
+ .comment       0x000000000000004d       0x4e ./emlib/em_core.o
+ .comment       0x000000000000004d       0x4e ./emlib/em_gpio.o
+ .comment       0x000000000000004d       0x4e ./emlib/em_timer.o
+ .comment       0x000000000000004d       0x4e ./src/main.o
+
+.debug_line     0x0000000000000000     0x6ed9
+ .debug_line    0x0000000000000000       0xd3 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .debug_line    0x00000000000000d3      0xa95 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_line    0x0000000000000b68     0x2d53 ./emlib/em_cmu.o
+ .debug_line    0x00000000000038bb      0xd7c ./emlib/em_core.o
+ .debug_line    0x0000000000004637      0xcaa ./emlib/em_gpio.o
+ .debug_line    0x00000000000052e1     0x105f ./emlib/em_timer.o
+ .debug_line    0x0000000000006340      0xb99 ./src/main.o
+
+.debug_info     0x0000000000000000    0x12f2d
+ .debug_info    0x0000000000000000       0x26 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .debug_info    0x0000000000000026     0x2002 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_info    0x0000000000002028     0x7577 ./emlib/em_cmu.o
+ .debug_info    0x000000000000959f     0x10ff ./emlib/em_core.o
+ .debug_info    0x000000000000a69e     0x229e ./emlib/em_gpio.o
+ .debug_info    0x000000000000c93c     0x2979 ./emlib/em_timer.o
+ .debug_info    0x000000000000f2b5     0x3c78 ./src/main.o
+
+.debug_abbrev   0x0000000000000000     0x167f
+ .debug_abbrev  0x0000000000000000       0x14 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .debug_abbrev  0x0000000000000014      0x35c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_abbrev  0x0000000000000370      0x572 ./emlib/em_cmu.o
+ .debug_abbrev  0x00000000000008e2      0x352 ./emlib/em_core.o
+ .debug_abbrev  0x0000000000000c34      0x372 ./emlib/em_gpio.o
+ .debug_abbrev  0x0000000000000fa6      0x370 ./emlib/em_timer.o
+ .debug_abbrev  0x0000000000001316      0x369 ./src/main.o
+
+.debug_aranges  0x0000000000000000      0x328
+ .debug_aranges
+                0x0000000000000000       0x20 ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .debug_aranges
+                0x0000000000000020       0x88 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_aranges
+                0x00000000000000a8      0x100 ./emlib/em_cmu.o
+ .debug_aranges
+                0x00000000000001a8       0xb8 ./emlib/em_core.o
+ .debug_aranges
+                0x0000000000000260       0x48 ./emlib/em_gpio.o
+ .debug_aranges
+                0x00000000000002a8       0x40 ./emlib/em_timer.o
+ .debug_aranges
+                0x00000000000002e8       0x40 ./src/main.o
+
+.debug_str      0x0000000000000000    0xd1d8d
+ .debug_str     0x0000000000000000       0xeb ./CMSIS/EFR32MG22/startup_efr32mg22.o
+ .debug_str     0x00000000000000eb    0xc6676 ./CMSIS/EFR32MG22/system_efr32mg22.o
+                                      0xc6f73 (size before relaxing)
+ .debug_str     0x00000000000c6761     0x84cd ./emlib/em_cmu.o
+                                      0xcecdf (size before relaxing)
+ .debug_str     0x00000000000cec2e      0x374 ./emlib/em_core.o
+                                      0xc6fbf (size before relaxing)
+ .debug_str     0x00000000000cefa2      0x216 ./emlib/em_gpio.o
+                                      0xc8167 (size before relaxing)
+ .debug_str     0x00000000000cf1b8     0x2999 ./emlib/em_timer.o
+                                      0xc8808 (size before relaxing)
+ .debug_str     0x00000000000d1b51      0x23c ./src/main.o
+                                      0xcbf45 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x53e9
+ .debug_loc     0x0000000000000000      0x171 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_loc     0x0000000000000171     0x337c ./emlib/em_cmu.o
+ .debug_loc     0x00000000000034ed      0x6e2 ./emlib/em_core.o
+ .debug_loc     0x0000000000003bcf      0x9b9 ./emlib/em_gpio.o
+ .debug_loc     0x0000000000004588      0xbcd ./emlib/em_timer.o
+ .debug_loc     0x0000000000005155      0x294 ./src/main.o
+
+.debug_ranges   0x0000000000000000      0xe88
+ .debug_ranges  0x0000000000000000       0xa8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_ranges  0x00000000000000a8      0x858 ./emlib/em_cmu.o
+ .debug_ranges  0x0000000000000900      0x1a0 ./emlib/em_core.o
+ .debug_ranges  0x0000000000000aa0      0x1b0 ./emlib/em_gpio.o
+ .debug_ranges  0x0000000000000c50      0x1a8 ./emlib/em_timer.o
+ .debug_ranges  0x0000000000000df8       0x90 ./src/main.o
+
+.debug_macro    0x0000000000000000    0x20a92
+ .debug_macro   0x0000000000000000      0x279 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000279      0xa72 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000ceb       0x22 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000d0d       0x56 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000d63       0x51 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000db4      0x103 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000eb7       0x6a ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000000f21      0x1df ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000001100      0x773 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000001873       0x1c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000188f       0x29 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000018b8      0x110 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000019c8     0x17ea ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000031b2       0x5e ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000003210       0x16 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000003226      0xe4f ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000004075     0x12bd ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000005332      0x87c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000005bae      0x300 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000005eae       0x34 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000005ee2      0x304 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000061e6      0x456 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000663c      0x4a1 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000006add      0x156 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000006c33      0x764 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000007397      0x363 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000076fa     0x14f4 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000008bee       0x10 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000008bfe      0x997 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000009595     0x2b9a ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000c12f      0xcb2 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000cde1       0x4c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000ce2d     0x15b8 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000000e3e5     0x210a ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000104ef      0x53c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000010a2b      0xfe5 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000011a10      0x955 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000012365       0x34 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000012399      0x308 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000126a1      0x6a7 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000012d48      0x618 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000013360      0x91e ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000013c7e     0x1b1b ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000015799      0x76b ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000015f04      0x8f3 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x00000000000167f7     0x14b5 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000017cac      0x688 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000018334      0x464 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000018798     0x141b ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x0000000000019bb3     0x15c0 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000001b173     0x1384 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000001c4f7     0x155c ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000001da53      0x2d0 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000001dd23      0xf00 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_macro   0x000000000001ec23      0x3ad ./emlib/em_cmu.o
+ .debug_macro   0x000000000001efd0       0x22 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001eff2       0x10 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f002       0x8d ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f08f       0xfc ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f18b      0x307 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f492       0x16 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f4a8       0xd6 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f57e      0x11b ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f699      0x16d ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f806       0x64 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001f86a      0x356 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fbc0       0x7c ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fc3c       0x17 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fc53       0xee ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fd41       0x3f ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fd80       0xdc ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fe5c       0x34 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fe90       0x42 ./emlib/em_cmu.o
+ .debug_macro   0x000000000001fed2      0x28b ./emlib/em_core.o
+ .debug_macro   0x000000000002015d      0x2ab ./emlib/em_gpio.o
+ .debug_macro   0x0000000000020408      0x282 ./emlib/em_timer.o
+ .debug_macro   0x000000000002068a       0x7f ./emlib/em_timer.o
+ .debug_macro   0x0000000000020709      0x2f2 ./src/main.o
+ .debug_macro   0x00000000000209fb       0x12 ./src/main.o
+ .debug_macro   0x0000000000020a0d       0x85 ./src/main.o
+
+.debug_frame    0x0000000000000000      0xe44
+ .debug_frame   0x0000000000000000      0x100 ./CMSIS/EFR32MG22/system_efr32mg22.o
+ .debug_frame   0x0000000000000100      0x2f0 ./emlib/em_cmu.o
+ .debug_frame   0x00000000000003f0      0x1ec ./emlib/em_core.o
+ .debug_frame   0x00000000000005dc       0xbc ./emlib/em_gpio.o
+ .debug_frame   0x0000000000000698       0xa8 ./emlib/em_timer.o
+ .debug_frame   0x0000000000000740       0x94 ./src/main.o
+ .debug_frame   0x00000000000007d4      0x2e4 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(unwind-arm.o)
+ .debug_frame   0x0000000000000ab8      0x104 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v8-m.main+fp/softfp/libgcc.a(pr-support.o)
+ .debug_frame   0x0000000000000bbc       0x28 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-abort.o)
+ .debug_frame   0x0000000000000be4       0x28 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000c0c       0x2c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000c38       0x28 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000000c60       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000000c80       0xcc /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signal.o)
+ .debug_frame   0x0000000000000d4c       0x3c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-signalr.o)
+ .debug_frame   0x0000000000000d88       0x5c /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libc_nano.a(lib_a-reent.o)
+ .debug_frame   0x0000000000000de4       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .debug_frame   0x0000000000000e04       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+ .debug_frame   0x0000000000000e24       0x20 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(_exit.o)
+
+.stab           0x0000000000000000       0x3c
+ .stab          0x0000000000000000       0x24 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
+ .stab          0x0000000000000024       0x18 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(kill.o)
+                                         0x24 (size before relaxing)
+
+.stabstr        0x0000000000000000       0x76
+ .stabstr       0x0000000000000000       0x76 /Applications/SimplicityStudio5.app/Contents/Eclipse/developer/toolchains/gnu_arm/10.2_2020q4/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v8-m.main+fp/softfp/libnosys.a(getpid.o)
